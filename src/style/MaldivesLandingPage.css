@@ -1,0 +1,57 @@
+.service .text-side h1 {
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+
+.service .section2 h2{
+  font-weight: 700;
+}
+
+
+.feature-service .service-card h4{
+  margin-top: 5px;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.feature-service .service-card img{
+  filter: drop-shadow(0px 10px 10px rgba(0, 0, 0, 0.25));
+}
+
+.pop-card {
+  background-image: url("https://imgs.search.brave.com/bIrUVHbfhAMWm-aSG0b_L7pV5dho74GYKWv2mBipWzk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aGVh/c2lhY29sbGVjdGl2/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMDEvam9h/bGktMS0uanBn");
+  background-size:cover ;
+  background-repeat: no-repeat; 
+
+}
+.pop-card1 {
+  background-image: url("https://img.freepik.com/premium-photo/two-succulent-plants-white-pot-isolated-white-background-with-copy-space_368093-607.jpg");
+  background-size: cover ;
+  background-repeat: no-repeat; 
+
+}
+.pop-card1 h2{
+  font-weight: 700;
+  font-size: 2.5rem;
+   
+}
+.pop-card1 strong{
+  font-weight: 700 ;
+  font-size: 1.7em;
+  color: #108545;
+}
+.pop-card h2{
+  font-weight: 700;
+  font-size: 2.5rem;
+   
+}
+.pop-card strong{
+  font-weight: 700 ;
+  font-size: 1.7em;
+  color: #108545;
+}
+
+.star-icon {
+  color: gold; /* Change the color to gold */
+}
