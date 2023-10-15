@@ -13,11 +13,11 @@
   height: 90vh;
   align-items: center;
   justify-content: center;
-  font-size: 3rem;
+font-size: 3rem;
 }
 
-/* .services {
-  background-image: url('../public/images/img-2.jpg');
+.services {
+  background-image: url('https://imgs.search.brave.com/WozUMDj2K6hCvBSxIjJqf6BwCvXpD6rmShWDKCitb3Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc1/NDM0NTE2L3Bob3Rv/L25vdC1mb3VuZC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/eGNrZEJxTzZ6OGwx/LTBqM3FCb1Y1TnZF/S25yS3ltekFxTEpa/ZlpQUWFYST0');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .products {
-  background-image: url('../public/images/img-1.jpg');
+  background-image: url('https://imgs.search.brave.com/CbjVh4A7lAKXHHQHa341Ea9CM8BGQntDa5htpnqvqcM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL3ByZW1p/dW0vdGh1bWIvY29u/dGFjdC11cy01MjMz/NzE1LTQzNzkwMTku/cG5nP2Y9d2VicA');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,10 +35,10 @@
 }
 
 .sign-up {
-  background-image: url('../public/images/img-8.jpg');
+  background-image: url('https://imgs.search.brave.com/ztzaFonn4Bi0jQlooixlN_T6h4bprf4nM8tYpDcvkqc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi8zZC1t/YW4tbG9naW4tZXJy/b3ItMjA3NDc3ODIu/anBn');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
-} */
+}

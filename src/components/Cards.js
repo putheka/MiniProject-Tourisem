@@ -28,7 +28,7 @@ function Cards() {
               src='https://imgs.search.brave.com/fcGHVqeaO8C86rEbbTw4Uo4SY5F4YzTTkRXh5Y_VjAs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jNC53/YWxscGFwZXJmbGFy/ZS5jb20vd2FsbHBh/cGVyLzk3NC83NTkv/ODIwL3NlYS1ncmVl/bnMtaXNsYW5kcy10/cm9waWNzLXdhbGxw/YXBlci1wcmV2aWV3/LmpwZw'
               text='Phuket'
               label='Travel With JongDer'
-              path='/services'
+              path='/'
             />
             <CardItem
               src='https://imgs.search.brave.com/qLDUqVWSSoZy0Aabyekv1qkEM8An8D6kangYaVhStFY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/dHJhdmVsYW5kZGVz/dGluYXRpb25zLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8wMS9CZWF1dGlm/dWwtcGxhY2VzLWlu/LUNhbWJvZGlhLmpw/Zw'
@@ -37,10 +37,10 @@ function Cards() {
               path='/products'
             />
             <CardItem
-              src='https://imgs.search.brave.com/9yXHjbk0oWGFMxGtNgJtcYX_5LjPCZdpwXYMxD9YKJk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQwMzcx/MjcuanBn'
-              text='Guilin and Lijiang River National Park'
+              src='https://www.telegraph.co.uk/content/dam/Travel/Destinations/Asia/China/Beijing/EG4N7_Beijing_Travel.jpg?imwidth=960'
+              text='why Beijing should be on your radar'
               label='Travel With JongDer'
-              path='/sign-up'
+              path='/Beijing'
             />
           </ul>
         </div>

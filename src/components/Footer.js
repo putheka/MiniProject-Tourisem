@@ -11,19 +11,10 @@ function Footer() {
           Join the Adventure newsletter to receive our best vacation deals
         </p>
         <p className='footer-subscription-text'>
-          You can unsubscribe at any time.
+          
+          Get In Touch With Us Vai Join Our Group
         </p>
-        <div className='input-areas'>
-          <form>
-            <input
-              className='footer-input'
-              name='email'
-              type='email'
-              placeholder='Your Email'
-            />
-            <Button buttonStyle='btn--outline'>Subscribe</Button>
-          </form>
-        </div>
+        <Button variant="secondary">Telegram</Button>{' '}
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
@@ -61,16 +52,15 @@ function Footer() {
         </div>
       </div>
 
-      <MDBFooter bgColor='light' className='text-center text-lg-left '>
-      <div className='text-center p-3 text-decoration-none' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        &copy; {new Date().getFullYear()} Copyright:{' '}
-        <a className='text-dark ' href='#'>
-         &lt;JongDer/&gt;
-        </a>
-      </div>
-    </MDBFooter>
-
+      <MDBFooter bgColor='light' className=' mt-5 text-center text-lg-left' style={{ width: '100%' }}>
+        <div className='text-center p-3 text-decoration-none' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+          &copy; {new Date().getFullYear()} Copyright:{' '}&lt;JongDer/&gt;
+        </div>
+      </MDBFooter>
     </div>
+
+
+
   );
 }
 

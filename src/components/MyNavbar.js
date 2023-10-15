@@ -16,7 +16,7 @@ function MyNavbar() {
                         <NavLink className={"nav-link"} to="/">
                             Home
                         </NavLink>
-                        <NavLink className={"nav-link"} to="/service">
+                        <NavLink className={"nav-link"} to="#">
                             Service
                         </NavLink>
                         <NavLink className={"nav-link"} to="/products">
@@ -24,20 +24,17 @@ function MyNavbar() {
                         </NavLink>
 
                         <NavDropdown title="Best Places to Visit in Asia!" id="basic-nav-dropdown">
-                            <NavDropdown.Item href="#action/3.3">Siem Reap</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.1">Maldives</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.2">Tokyo</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.3">Phuket</NavDropdown.Item>
-                            <NavDropdown.Item href="#action/3.3">Guilin and Lijiang River Nation Park</NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="#action/3.4">
-                                Separated link
-                            </NavDropdown.Item>
+                            <NavDropdown.Item href="/Maldiv">Maldives</NavDropdown.Item>
+                            <NavDropdown.Item href="/Toyko">Tokyo</NavDropdown.Item>
+                            <NavDropdown.Item href="/Phuket">Phuket</NavDropdown.Item>
+                            <NavDropdown.Item href="/Siemreap">Siem Reap</NavDropdown.Item>
+                            <NavDropdown.Item href="/Beijing">Beijing</NavDropdown.Item>
+                            
                         </NavDropdown>
                     </Nav>
-                    <div className="d-flex justify-content-center">
-                        <button className='btn btn-secondary me-3 rounded-pill'>Sign Up</button>
-                        <button className='btn btn-primary rounded-pill'>Login</button>
+                     <div className="d-flex justify-content-center">
+                        <NavLink to="/sign-up" className='btn btn-secondary me-3 '>Sign Up</NavLink>
+                        <NavLink to="/sign-up" className='btn btn-primary '>Login</NavLink>
                     </div>
 
                 </Navbar.Collapse>
